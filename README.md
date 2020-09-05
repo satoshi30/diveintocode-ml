@@ -11,7 +11,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
   - [Week2 授業前課題1 小麦とチェス盤問題](https://github.com/satoshi30/diveintocode-ml/blob/master/Week2_MathematicsforMachineLearning/Week2_task1_before_class.ipynb)
   - [Week2 授業前課題2 ダミーデータの作成](https://github.com/satoshi30/diveintocode-ml/blob/master/Week2_MathematicsforMachineLearning/Week2_task2_before_class.ipynb)
   - [Week2 授業前課題3 行列積のスクラッチ](https://github.com/satoshi30/diveintocode-ml/blob/master/Week2_MathematicsforMachineLearning/Week2_task3_before_class.ipynb)
-  - [Week2 授業前課題4 （任意課題） ダーツ投げ問題]()
+  - [Week2 授業前課題4 （任意課題） ダーツ投げ問題](https://github.com/satoshi30/diveintocode-ml/blob/master/Week2_MathematicsforMachineLearning/Week2_task4_before_class.ipynb)
   - [Week2 授業課題1 二次元配列と勾配問題](https://github.com/satoshi30/diveintocode-ml/blob/master/Week2_MathematicsforMachineLearning/Week2_task1.ipynb)
   - [Week2 授業課題2 富士下山問題](https://github.com/satoshi30/diveintocode-ml/blob/master/Week2_MathematicsforMachineLearning/Week2_task2.ipynb)
 - ### Week3 探索的データ分析
