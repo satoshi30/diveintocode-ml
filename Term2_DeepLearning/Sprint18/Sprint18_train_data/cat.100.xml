@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sprint18_train_data</folder>
+	<filename>cat.100.jpg</filename>
+	<path>/Users/ikeda/Desktop/dive/diveintocode-ml/Term2_DeepLearning/Sprint18_train_data/cat.100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>403</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>16</ymin>
+			<xmax>393</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>
