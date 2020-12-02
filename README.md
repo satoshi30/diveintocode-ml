@@ -8,7 +8,8 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 ## 学習課題一覧
 - 学習した課題は以下リンク先に保存しております
 - グループワークと個人プロジェクトは別リポジトリにあるので、そちらをご参照ください。
-    - [グループワーク 物体検出によるセルフレジシステムの開発](https://github.com/nakazono1011/diveintocode_groupwork)
+    - グループワーク
+        - [物体検出によるセルフレジシステムの開発](https://github.com/nakazono1011/diveintocode_groupwork)
     - 個人プロジェクト
         - [ブラックジャックの世界へ](https://github.com/satoshi30/photo2blackjack)
         - [モザイクアートの作成](https://github.com/satoshi30/mosaic_art)
